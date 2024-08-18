@@ -1,0 +1,6 @@
+@ProgramacaoDoZero_HostAddress = http://localhost:5296
+
+GET {{ProgramacaoDoZero_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
